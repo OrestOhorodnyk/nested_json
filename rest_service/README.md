@@ -18,6 +18,8 @@ OR
 
 * activate env: ```source venv/bin/activate```
 
+* install dependities `pip install -r requirements.txt`
+
 * make sure that port 5000 on your local host is not used
 
 * run app python app.py
