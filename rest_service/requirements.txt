@@ -20,7 +20,7 @@ py==1.11.0
 pyparsing==2.4.6
 pyrsistent==0.15.7
 pytest==5.4.1
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.23.0
 six==1.14.0
 swagger-ui-bundle==0.0.6
